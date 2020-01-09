@@ -1,0 +1,4 @@
+github
+create folder
+create file in that folder
+to check git version.... git --version
